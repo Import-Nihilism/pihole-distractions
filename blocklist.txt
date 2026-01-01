@@ -1,30 +1,30 @@
 # Personal blocklist of distractions while working
 # https://github.com/pugson/pihole-distractions
 
-x.com
-m.x.com
-twitter.com
-m.twitter.com
-t.co
-reddit.com
-gateway.reddit.com
-gql.reddit.com
-www.reddit.com
-redditmedia.com
-redditstatic.com
-youtube.com
-www.youtube.com
-api.farcaster.xyz
-farcaster.xyz
-explorer.farcaster.xyz
-discove.xyz
-www.spielaffe.de
-spielaffe.de
-www.nytimes.com/games
-nytimes.com/games
-www.nytimes.com/crosswords
-nytimes.com/crosswords
-www.nytimes.com/puzzles
-nytimes.com/puzzles
-www.nytimes.com/games
-nytimes.com/games
+0.0.0.0 x.com
+0.0.0.0 m.x.com
+0.0.0.0 twitter.com
+0.0.0.0 m.twitter.com
+0.0.0.0 t.co
+0.0.0.0 reddit.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 gql.reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 api.farcaster.xyz
+0.0.0.0 farcaster.xyz
+0.0.0.0 explorer.farcaster.xyz
+0.0.0.0 discove.xyz
+0.0.0.0 www.spielaffe.de
+0.0.0.0 spielaffe.de
+0.0.0.0 www.nytimes.com/games
+0.0.0.0 nytimes.com/games
+0.0.0.0 www.nytimes.com/crosswords
+0.0.0.0 nytimes.com/crosswords
+0.0.0.0 www.nytimes.com/puzzles
+0.0.0.0 nytimes.com/puzzles
+0.0.0.0 www.nytimes.com/games
+0.0.0.0 nytimes.com/games
